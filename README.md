@@ -1,5 +1,5 @@
 
-<p align="center"><img  src="https://www.useit.es/sites/default/files/styles/panorami/public/2019-12/portada%20i%20mini_0.jpg?itok=qKXKBWw7" alt="code" /></p>
+<p align="center"><img  src="https://www.serrasoluciones.com/wp-content/uploads/2014/05/3711_computerscience-banner-final.jpg" alt="code" /></p>
 
 
 <h1 align="center">Hi 👋, I'm Fernando Caballero from Corrientes Argentina</h1>
