@@ -4,7 +4,7 @@
 <h3 align="justify">I'm an advanced student of the systems career and passionate about technology and the world of data. I have experience in development and data analysis, I am currently working as a QA Automation trainee at Globant. I am in constant training and open to new technologies and professional growth</h3>
 
 
-
+😃 ABOUT ME:
 - 🌱 I’m currently learning **.Net Core 6, Angular 11, Selenium with Python**
 
 - 🤝 I’m looking for help with **Open source projects or MVP for startups**
