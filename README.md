@@ -1,5 +1,5 @@
 
-<p align="center"><img  src="https://www.serrasoluciones.com/wp-content/uploads/2014/05/3711_computerscience-banner-final.jpg" width="1000px" height="100px" alt="code" /></p>
+<p align="center"><img  src="https://www.serrasoluciones.com/wp-content/uploads/2014/05/3711_computerscience-banner-final.jpg" style="border-radius:50px;" width="1000px" height="100px" alt="code" /></p>
 
 
 <h1 align="center">Hi 👋, I'm Fernando Caballero from Corrientes Argentina</h1>
