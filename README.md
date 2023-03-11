@@ -5,7 +5,15 @@
 <h1 align="center">Hi 👋, I'm Fernando Caballero from Corrientes Argentina</h1>
 <h3 align="center">QA Automation / Software Developer</h3>
 
-<h3 align="justify">I'm an advanced student of the systems career and passionate about technology and the world of data. I have experience in development and data analysis, I am currently working as a QA Automation Jr at Globant. I am in constant training and open to new technologies and professional growth</h3>
+<h3 align="justify">I'm an advanced student of the systems career and passionate about technology and the world of data. I have experience in development and data analysis, I am currently working as a Test Atomation Engineer Jr at Globant. I am in constant training and open to new technologies and professional growth</h3>
+
+<hr>
+
+<h2> I work with Clients at diferent Industries: </h2>
+
+- Pharmaceutical Distributor: Python Backend Developer, JUFEC SA (Internship)
+- Marketing and Entertainment: Test Automation Engineer, The Walt Disney Company (as a Glober)
+- Banking: Test Automation Engineer (as a Glober the client is confidential)
 
 <hr>
 
