@@ -6,7 +6,7 @@
 
 <h3 align="justify">I am an advanced bachelor's degree student in systems with a strong background in automated testing, performance, and security. With two years of experience at Globant, I have showcased my ability to tackle technical challenges with innovative solutions. My daily focus revolves around continuously refining both my technical and soft skills, placing particular emphasis on advancing my proficiency in English.
 
-I am actively seeking opportunities that allow me to apply and expand my expertise, contributing to project success through the implementation of effective quality strategies. Additionally, I have a keen interest in researching and applying the latest tools in Artificial Intelligence to automate processes and facilitate coding in both my professional work and academic pursuits..</h3>
+I am actively seeking opportunities that allow me to apply and expand my expertise, contributing to project success through the implementation of effective quality strategies. Additionally, I have a keen interest in researching and applying the latest tools in Artificial Intelligence to automate processes and facilitate coding in both my professional work and academic pursuits.</h3>
 
 <hr>
 
@@ -18,13 +18,13 @@ I am actively seeking opportunities that allow me to apply and expand my experti
 
 <hr>
 
-<h2 align="center"> 😎 ABOUT ME 😃 </h2>
+<h2 align="center"> 😎 ABOUT ME 😎 </h2>
 
 - 🌱 I’m currently improve and working with **Selenium With Serenity BDD and Java, POSTMAN, Karate Framework and develop different python scripts as a hobby**
 
 - 🤝 I’m looking for help with **Open source projects or MVP for startups**
 
-- 💬 Ask me about **Python, Testing, Algorithms** ☝🤓
+- 💬 Ask me about **Python, Testing, IA** ☝🤓
 
 - 📫 How to reach me **cabafer1@gmail.com**
 
@@ -47,7 +47,7 @@ I am actively seeking opportunities that allow me to apply and expand my experti
 <hr>
 
 <h3 align="center">Tools And Frameworks</h3>
-<p align="center">
+<p align="gitHub Copilotcenter">
 Karate DSL | Postman | Jmetter | OWASP ZAP | Salesforce | Serenity BDD | Cucumber | Jira | Jira X-ray | Git | GitHub
 </p>
 <p align="center">
@@ -62,6 +62,17 @@ Karate DSL | Postman | Jmetter | OWASP ZAP | Salesforce | Serenity BDD | Cucumbe
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/DTMp4aVzalUoCFj6XGPBMXg6pEvhL2entVp6_LS7nVpuPZzdF5CI3AzIOYIsqiAyND8u=w240-h480-rw" alt="xray" width="60" height="60"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="60" height="60"/>
 </p>
+
+
+<h3 align="center">AI tools I Use The Most</h3>
+<p align="center">
+ChatGPT | GitHub Copilot | Midjourney | Stable Diffusion | 
+</p>
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/11865/11865338.png" alt="cahtGPT" width="60" height="60"/>
+</p>
+
+
 
 <hr>
 
