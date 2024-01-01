@@ -52,10 +52,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomecompila&" alt="nomecompila" /></p>
 <hr>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
-<a target="_blank" href="https://linkedin.com/in/fernando-caballero-887b09150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-caballero-887b09150" height="30" width="40" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/13284452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13284452" height="30" width="40" /></a>
-<a target="_blank" href="https://www.hackerrank.com/@cabafer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@cabafer1" height="30" width="40" /></a>
-<a target="_blank" href="https://www.hackerearth.com/@cabafer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@cabafer1" height="30" width="40" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/qa-fer-caballero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
