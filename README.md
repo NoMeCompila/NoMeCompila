@@ -46,6 +46,9 @@
 
 <h3 align="center">Tools And Frameworks</h3>
 <p align="center">
+Karate DSL | Postman | Jmetter | OWASP ZAP | Salesforce | Serenity BDD | Cucumber | Jira | Jira X-ray | Git | GitHub
+</p>
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate" width="60" height="60"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="60" height="60"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://images.peerspot.com/image/upload/c_scale,f_auto,q_auto,w_200/hNMJJ78MbNcvroPwWE3TSr3f.jpg" alt="Jmeter" width="60" height="60"/>
