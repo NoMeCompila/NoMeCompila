@@ -47,7 +47,7 @@ I am actively seeking opportunities that allow me to apply and expand my experti
 <hr>
 
 <h3 align="center">Tools And Frameworks</h3>
-<p align="gitHub Copilotcenter">
+<p align="center">
 Karate DSL | Postman | Jmetter | OWASP ZAP | Salesforce | Serenity BDD | Cucumber | Jira | Jira X-ray | Git | GitHub
 </p>
 <p align="center">
@@ -62,7 +62,8 @@ Karate DSL | Postman | Jmetter | OWASP ZAP | Salesforce | Serenity BDD | Cucumbe
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/DTMp4aVzalUoCFj6XGPBMXg6pEvhL2entVp6_LS7nVpuPZzdF5CI3AzIOYIsqiAyND8u=w240-h480-rw" alt="xray" width="60" height="60"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="60" height="60"/>
 </p>
-
+  
+<hr>
 
 <h3 align="center">AI tools I Use The Most</h3>
 <p align="center">
