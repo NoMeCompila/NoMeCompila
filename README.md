@@ -71,6 +71,8 @@ ChatGPT | GitHub Copilot | Midjourney | Stable Diffusion |
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/11865/11865338.png" alt="cahtGPT" width="60" height="60"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:700/0*oRRpMJ9XqkRnYLhW.png" alt="copilot" width="60" height="60"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.n7net.com/wp-content/uploads/2023/06/Midjourney-logo.png" alt="midj" width="60" height="60"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://stablediffusion.fr/sd.png" alt="stable" width="60" height="60"/>
 </p>
 
 
