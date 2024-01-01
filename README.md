@@ -19,7 +19,7 @@
 
 <h2 align="center"> 😎 ABOUT ME 😃 </h2>
 
-- 🌱 I’m currently learning and improve **Selenium and requests library with Python, POSTMAN, Serenity with Java and Jmeter**
+- 🌱 I’m currently improve and working with **Selenium Whit Serenity BDD and Java, POSTMAN, Karate Framework**
 
 - 🤝 I’m looking for help with **Open source projects or MVP for startups**
 
@@ -36,8 +36,8 @@
 <h3 align="center">Principal Languages</h3>
 
 <p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
 </p>
 
 
