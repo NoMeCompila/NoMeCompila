@@ -46,7 +46,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate" width="60" height="60"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="60" height="60"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://images.peerspot.com/image/upload/c_scale,f_auto,q_auto,w_200/hNMJJ78MbNcvroPwWE3TSr3f.jpg" alt="Jmeter" width="60" height="60"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180502/ozq/kisspng-owasp-zap-vulnerability-penetration-test-proxy-ser-web-application-5aea65947a30d0.0276627015253108685005.jpg" alt="Owasp" width="60" height="60"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180502/ozq/kisspng-owasp-zap-vulnerability-penetration-test-proxy-ser-web-application-5aea65947a30d0.0276627015253108685005.jpg" alt="Owasp" width="70" height="60"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/2560px-Salesforce.com_logo.svg.png" alt="Owasp" width="60" height="60"/>
 </p>
 
