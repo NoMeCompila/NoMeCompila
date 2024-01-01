@@ -2,10 +2,10 @@
 <p align="center"><img  src="https://www.serrasoluciones.com/wp-content/uploads/2014/05/3711_computerscience-banner-final.jpg" style="border-radius:50px;" width="1000px" height="100px" alt="code" /></p>
 
 
-<h1 align="center">Hi 👋, I'm Fernando Caballero from Corrientes Argentina</h1>
-<h3 align="center">QA Automation / Software Developer</h3>
+<h1 align="center">Welcome 😃, I'm Fernando Caballero from Argentina</h1>
+<h3 align="center">Test Automation Engineer / Software Developer</h3>
 
-<h3 align="justify">I'm an advanced student of the systems career and passionate about technology and the world of data. I have experience in development and data analysis, I am currently working as a Test Atomation Engineer Jr at Globant. I am in constant training and open to new technologies and professional growth</h3>
+<h3 align="justify">I am an advanced systems engineering student with a strong background in automated testing, performance, and security. With two years of experience at Globant, I have showcased my ability to tackle technical challenges with innovative solutions. My daily focus revolves around continuously refining both my technical and soft skills, placing particular emphasis on advancing my proficiency in English. I am actively seeking opportunities that allow me to apply and expand my expertise, contributing to project success through the implementation of effective quality strategies.</h3>
 
 <hr>
 
@@ -13,7 +13,7 @@
 
 - Pharmaceutical Distributor: Python Backend Developer, JUFEC SA (Internship)
 - Marketing and Entertainment: Test Automation Engineer, The Walt Disney Company (as a Glober)
-- Banking: Test Automation Engineer (as a Glober the client is confidential)
+- Banking: Test Automation Engineer at BCP (as a Glober)
 
 <hr>
 
@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help with **Open source projects or MVP for startups**
 
-- 💬 Ask me about **Python, SQL, Algorithms**
+- 💬 Ask me about **Python, Testing, Algorithms** ☝🤓3
 
 - 📫 How to reach me **cabafer1@gmail.com**
 
@@ -54,5 +54,5 @@
 <hr>
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/qa-fer-caballero/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/qa-fer-caballero/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60" width="60" /></a>
 </p>
