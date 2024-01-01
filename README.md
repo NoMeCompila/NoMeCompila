@@ -45,7 +45,7 @@
 <hr>
 
 <h3 align="center">Tools And Frameworks</h3>
-<p align="center">
+<p align="center" style="padding: 10px;">
 Karate DSL | Postman | Jmetter | OWASP ZAP | Salesforce | Serenity BDD | Cucumber | Jira | Jira X-ray | Git | GitHub
 </p>
 <p align="center">
