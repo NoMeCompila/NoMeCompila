@@ -1,7 +1,6 @@
 
 <p align="center"><img  src="https://www.serrasoluciones.com/wp-content/uploads/2014/05/3711_computerscience-banner-final.jpg" style="border-radius:50px;" width="1000px" height="100px" alt="code" /></p>
 
-
 <h1 align="center">Welcome 😃, I'm Fernando Caballero from Argentina</h1>
 <h3 align="center">Test Automation Engineer / Software Developer</h3>
 
@@ -19,11 +18,11 @@
 
 <h2 align="center"> 😎 ABOUT ME 😃 </h2>
 
-- 🌱 I’m currently improve and working with **Selenium Whit Serenity BDD and Java, POSTMAN, Karate Framework**
+- 🌱 I’m currently improve and working with **Selenium With Serenity BDD and Java, POSTMAN, Karate Framework and develop different python scripts as a hobby**
 
 - 🤝 I’m looking for help with **Open source projects or MVP for startups**
 
-- 💬 Ask me about **Python, Testing, Algorithms** ☝🤓3
+- 💬 Ask me about **Python, Testing, Algorithms** ☝🤓
 
 - 📫 How to reach me **cabafer1@gmail.com**
 
@@ -40,19 +39,19 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
 </p>
 
-
-
-
 <hr>
-
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nomecompila&show_icons=true&locale=en&layout=compact" alt="nomecompila" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nomecompila&show_icons=true&locale=en" alt="nomecompila" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomecompila&" alt="nomecompila" /></p>
+
 <hr>
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/qa-fer-caballero/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60" width="60" /></a>
+
+  <a target="_blank" href="https://www.linkedin.com/in/qa-fer-caballero/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60" width="60" /></a>
+
 </p>
