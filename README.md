@@ -18,22 +18,6 @@ I am actively seeking opportunities that allow me to apply and expand my experti
 
 <hr>
 
-<h2 align="center"> 😎 ABOUT ME 😎 </h2>
-
-- 🌱 I’m currently improve and working with **Selenium With Serenity BDD and Java, POSTMAN, Karate Framework and develop different python scripts as a hobby**
-
-- 🤝 I’m looking for help with **Open source projects or MVP for startups**
-
-- 💬 Ask me about **Python, Testing, IA** ☝🤓
-
-- 📫 How to reach me **cabafer1@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1afcRedBzQYKQmjtYqNRXxHYv1nKyTdfp/view?usp=sharing]
-
-- ⚡ Fun fact **I love rap battles and video games**
-
-<hr>
-
 <h3 align="center">Principal Languages</h3>
 
 <p align="center">
@@ -85,6 +69,24 @@ ChatGPT | GitHub Copilot | Midjourney | Stable Diffusion |
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nomecompila&show_icons=true&locale=en" alt="nomecompila" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomecompila&" alt="nomecompila" /></p>
+
+<hr>
+
+
+
+<h2 align="center"> 😎 ABOUT ME 😎 </h2>
+
+- 🌱 I’m currently improve and working with **Selenium With Serenity BDD and Java, POSTMAN, Karate Framework and develop different python scripts as a hobby**
+
+- 🤝 I’m looking for help with **Open source projects or MVP for startups**
+
+- 💬 Ask me about **Python, Testing, IA** ☝🤓
+
+- 📫 How to reach me **cabafer1@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1afcRedBzQYKQmjtYqNRXxHYv1nKyTdfp/view?usp=sharing]
+
+- ⚡ Fun fact **I love rap battles and video games**
 
 <hr>
 
