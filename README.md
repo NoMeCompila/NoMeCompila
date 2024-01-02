@@ -12,7 +12,10 @@ I am actively seeking opportunities that allow me to apply and expand my experti
 
 <h2> I work with Clients at diferent Industries: </h2>
 
-- Pharmaceutical Distributor: Python Backend Developer, JUFEC SA (Internship)
+- Pharmaceutical Distributor: Python Backend Developer, JUFEC SA (Internship): In my role as a Trainee Backend Developer specializing in Python and Django at a prominent pharmaceutical distributor, I gained my first foray into the world of information technology. Embedded within a dynamic team, I contributed to the development of a crucial internal web system. This system enabled meticulous tracking of computer specifications for our clients distributed nationwide.
+My primary responsibility involved creating a Python script that efficiently automated data collection and facilitated the generation of the database. This innovative approach significantly streamlined the process, saving time and resources.
+Furthermore, I actively participated in integrating the backend system with the frontend, ensuring a cohesive and user-friendly interface for company operators. This experience not only strengthened my technical skills but also showcased my ability to collaborate on comprehensive projects and contribute to the overall success of the team.
+
 - Marketing and Entertainment: Test Automation Engineer, The Walt Disney Company (as a Glober)
 - Banking: Test Automation Engineer at BCP (as a Glober)
 - 📄 [Download My CV](https://drive.google.com/file/d/1afcRedBzQYKQmjtYqNRXxHYv1nKyTdfp/view?usp=sharing)
