@@ -15,7 +15,7 @@ I am actively seeking opportunities that allow me to apply and expand my experti
 - Pharmaceutical Distributor: Python Backend Developer, JUFEC SA (Internship)
 - Marketing and Entertainment: Test Automation Engineer, The Walt Disney Company (as a Glober)
 - Banking: Test Automation Engineer at BCP (as a Glober)
-- 📄 Know about my experiences ![https://drive.google.com/file/d/1afcRedBzQYKQmjtYqNRXxHYv1nKyTdfp/view?usp=sharing]
+- 📄 [Download My CV](https://drive.google.com/file/d/1afcRedBzQYKQmjtYqNRXxHYv1nKyTdfp/view?usp=sharing)
 
 
 <hr>
