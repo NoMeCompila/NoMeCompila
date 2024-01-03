@@ -16,7 +16,8 @@ I am actively seeking opportunities that allow me to apply and expand my experti
 My primary responsibility involved creating a Python script that efficiently automated data collection and facilitated the generation of the database. This innovative approach significantly streamlined the process, saving time and resources.
 Furthermore, I actively participated in integrating the backend system with the frontend, ensuring a cohesive and user-friendly interface for company operators. This experience not only strengthened my technical skills but also showcased my ability to collaborate on comprehensive projects and contribute to the overall success of the team.
 
-- Marketing and Entertainment: Test Automation Engineer, The Walt Disney Company (as a Glober)
+- Marketing and Entertainment: Test Automation Engineer, The Walt Disney Company (as a Glober): 
+During my tenure at The Walt Disney Company, I played a pivotal role in software automation and quality assurance, focusing on API testing using Behave BDD and Python. Throughout this period, I solidified my expertise in GIT, enhanced my English communication skills, and gained a profound understanding of Scrum ceremonies. My contribution to test automation not only ensured software quality but also facilitated more efficient and agile development processes. Working in an international environment like Disney provided me with the opportunity to refine my English proficiency, both in technical terms and general communication.
 - Banking: Test Automation Engineer at BCP (as a Glober)
 - 📄 [Download My CV](https://drive.google.com/file/d/1afcRedBzQYKQmjtYqNRXxHYv1nKyTdfp/view?usp=sharing)
 
