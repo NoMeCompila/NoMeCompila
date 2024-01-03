@@ -10,7 +10,7 @@ I am actively seeking opportunities that allow me to apply and expand my experti
 
 <hr>
 
-<h2> I work with Clients at diferent Industries: </h2>
+<h2 align="center"> I work with Clients at diferent Industries: </h2>
 
 <p align="center">
 [Download My CV](https://drive.google.com/file/d/1afcRedBzQYKQmjtYqNRXxHYv1nKyTdfp/view?usp=sharing)
