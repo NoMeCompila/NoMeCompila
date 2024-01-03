@@ -11,10 +11,11 @@ I am actively seeking opportunities that allow me to apply and expand my experti
 <hr>
 
 <h2 align="center"> I work with Clients at diferent Industries: </h2>
-
-<p align="center">
  
- ## [Click to Download My CV](https://drive.google.com/file/d/1afcRedBzQYKQmjtYqNRXxHYv1nKyTdfp/view?usp=sharing)</p>
+ <h2 align="center"> 
+ 
+  [Click to Download My CV](https://drive.google.com/file/d/1afcRedBzQYKQmjtYqNRXxHYv1nKyTdfp/view?usp=sharing) 
+ </h2>
 
   
 - **Banking**: Test Automation Engineer at BCP (as a Glober): I am currently part of a critical project focused on migrating from deprecated technology to Salesforce, incorporating microservices API. In this capacity, my responsibilities include conducting both manual and automated tests, encompassing both functional and non-functional aspects. For frontend automation, I utilize Serenity BDD with Java, and for API automation, I leverage Karate DSL. Additionally, I have gained proficiency in JMeter for performance testing and OWASP ZAP for security testing.
