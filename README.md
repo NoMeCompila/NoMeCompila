@@ -28,7 +28,7 @@ I am actively seeking opportunities that allow me to apply and expand my experti
 <h3 align="center">Principal Languages</h3>
 
 <p align="center">
-  PYTHON | JAVA | JAVASCRIPT
+  | PYTHON | JAVA | JAVASCRIPT |
 </p>
 <p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
@@ -39,7 +39,7 @@ I am actively seeking opportunities that allow me to apply and expand my experti
 
 <h3 align="center">Tools And Frameworks</h3>
 <p align="center">
-Karate DSL | Postman | Jmetter | OWASP ZAP | Salesforce | Serenity BDD | Cucumber | Jira | Jira X-ray | Git | GitHub
+| Karate DSL | Postman | Jmetter | OWASP ZAP | Salesforce | Serenity BDD | Cucumber | Jira | Jira X-ray | Git | GitHub |
 </p>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate" width="60" height="60"/>
@@ -58,7 +58,7 @@ Karate DSL | Postman | Jmetter | OWASP ZAP | Salesforce | Serenity BDD | Cucumbe
 
 <h3 align="center">AI tools I Use The Most</h3>
 <p align="center">
-ChatGPT | GitHub Copilot | Midjourney | Stable Diffusion | 
+| ChatGPT | GitHub Copilot | Midjourney | Stable Diffusion | 
 </p>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/11865/11865338.png" alt="cahtGPT" width="60" height="60"/>
@@ -66,8 +66,6 @@ ChatGPT | GitHub Copilot | Midjourney | Stable Diffusion |
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.n7net.com/wp-content/uploads/2023/06/Midjourney-logo.png" alt="midj" width="60" height="60"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://stablediffusion.fr/sd.png" alt="stable" width="60" height="60"/>
 </p>
-
-
 
 <hr>
 
