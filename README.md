@@ -14,7 +14,7 @@ I am actively seeking opportunities that allow me to apply and expand my experti
  
  <h2 align="center"> 
  
-  [Click to Download My CV](https://drive.google.com/file/d/1JRxlQMAOrn7KhUTsiI4GssNY_7I_Lx0M/view?usp=sharing) 
+  [Click to Download My CV](https://drive.google.com/file/d/1__Tows83XPYJCRvEdNTqMgdO1m_MjAzq/view?usp=sharing) 
  </h2>
 
   
