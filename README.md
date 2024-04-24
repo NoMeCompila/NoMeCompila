@@ -1,6 +1,3 @@
-
-<p align="center"><img  src="https://media.licdn.com/dms/image/D4D16AQFYPxrkTAFTcQ/profile-displaybackgroundimage-shrink_350_1400/0/1690881508254?e=1709769600&v=beta&t=wWbQrevUjGF1Ts7m7GZ4jo5FHEw38bYZoXVKEkUAayg" alt="code" /></p>
-
 <h1 align="center">Welcome 😃, I'm Fernando Caballero from Argentina</h1>
 <h3 align="center">Test Automation Engineer / Software Developer</h3>
 
