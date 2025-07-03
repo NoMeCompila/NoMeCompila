@@ -48,9 +48,11 @@ My work consistently follows agile development practices, adhering to the Scrum 
 <table>
   <tr>
     <td><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="100" alt="Postman"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" width="100" alt="Karate"></td>
   </tr>
   <tr align="center">
     <td>Postman</td>
+    <td>Karate DSL</td>
   </tr>
 </table>
 </div>
