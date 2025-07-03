@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b4d8322-d903-4985-b219-2e81460f3dc0)<h1 align="center">Welcome 😃, I'm Fernando Caballero </h1>
+<h1 align="center">Welcome 😃, I'm Fernando Caballero </h1>
 <h3 align="center">QA Automation Engineer / Software Developer</h3>
 
 <h3 align="justify">I work as a QA Automation Engineer in large, cross-functional teams within enterprise environments. I bring solid experience in electronic payment and banking systems, specializing in both API and web automation. I also have hands-on expertise in performance testing.
@@ -79,7 +79,7 @@ My work consistently follows agile development practices, adhering to the Scrum 
     <td><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" alt="Git"></td>
     <td><img src="https://play-lh.googleusercontent.com/DTMp4aVzalUoCFj6XGPBMXg6pEvhL2entVp6_LS7nVpuPZzdF5CI3AzIOYIsqiAyND8u=w240-h480-rw" width="100" alt="Jira Xray"></td>
     <td><img src="https://pbs.twimg.com/profile_images/1259908463070756865/StEmxHED_400x400.png" width="100" alt="Cucumber"></td>
-    <td><img src="https://pngate.com/wp-content/uploads/2025/06/confluence-Icon-main-logo-symbol-blue-modern-abstract-design-1.png" width="100" alt="Confluence"></td>
+    <td><img src="https://images.seeklogo.com/logo-png/33/1/confluence-logo-png_seeklogo-338595.png" width="100" alt="Confluence"></td>
   </tr>
   <tr align="center">
     <td>Git</td>
