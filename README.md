@@ -23,6 +23,7 @@ My work consistently follows agile development practices, adhering to the Scrum 
 -  **Pharmaceutical Distributor**: Python Backend Developer, JUFEC SA (Internship)
 <hr>
 
+<h3>Programming Languages</h3>
 <div align="center">
 <table>
   <tr>
