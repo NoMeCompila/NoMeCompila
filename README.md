@@ -89,31 +89,28 @@ My work consistently follows agile development practices, adhering to the Scrum 
   </tr>
 </table>
 </div>
-
-<hr>
-
-<h3 align="center">Tools And Frameworks</h3>
-<p align="center">
-| Karate DSL | Postman | Jmetter | OWASP ZAP | Salesforce | Serenity BDD | Cucumber | Jira | Jira X-ray | Git | GitHub |
-</p>
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate" width="60" height="60"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="60" height="60"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://images.peerspot.com/image/upload/c_scale,f_auto,q_auto,w_200/hNMJJ78MbNcvroPwWE3TSr3f.jpg" alt="Jmeter" width="60" height="60"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180502/ozq/kisspng-owasp-zap-vulnerability-penetration-test-proxy-ser-web-application-5aea65947a30d0.0276627015253108685005.jpg" alt="Owasp" width="60" height="60"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/2560px-Salesforce.com_logo.svg.png" alt="salesforce" width="70" height="60"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/9455201?s=280&v=4" alt="serenity" width="60" height="60"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="cucumber" width="60" height="60"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="jira" width="60" height="60"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/DTMp4aVzalUoCFj6XGPBMXg6pEvhL2entVp6_LS7nVpuPZzdF5CI3AzIOYIsqiAyND8u=w240-h480-rw" alt="xray" width="60" height="60"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="60" height="60"/>
-</p>
   
 <hr>
 
 <h3 align="center">AI tools I Use The Most</h3>
-<p align="center">
-| ChatGPT | GitHub Copilot | Midjourney | Stable Diffusion | 
+<div align="center">
+<table>
+  <tr>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/11865/11865338.png" width="100" alt="Chat GPT"></td>
+    <td><img src="https://miro.medium.com/v2/resize:fit:700/0*oRRpMJ9XqkRnYLhW.png" width="100" alt="Copilot"></td>
+    <td><img src="https://pbs.twimg.com/profile_images/1259908463070756865/StEmxHED_400x400.png" width="100" alt="Cucumber"></td>
+  </tr>
+  <tr align="center">
+    <td>chatGPT</td>
+    <td>Github Copilot</td>
+    <td>Geminir</td>
+  </tr>
+</table>
+</div>
+  
+
+
+ 
 </p>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/11865/11865338.png" alt="cahtGPT" width="60" height="60"/>
