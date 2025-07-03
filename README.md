@@ -98,12 +98,12 @@ My work consistently follows agile development practices, adhering to the Scrum 
   <tr>
     <td><img src="https://cdn-icons-png.flaticon.com/512/11865/11865338.png" width="100" alt="Chat GPT"></td>
     <td><img src="https://miro.medium.com/v2/resize:fit:700/0*oRRpMJ9XqkRnYLhW.png" width="100" alt="Copilot"></td>
-    <td><img src="https://pbs.twimg.com/profile_images/1259908463070756865/StEmxHED_400x400.png" width="100" alt="Cucumber"></td>
+    <td><img src="https://brandlogos.net/wp-content/uploads/2025/03/gemini_icon-logo_brandlogos.net_bqzeu-300x300.png" width="100" alt="Gemini"></td>
   </tr>
   <tr align="center">
     <td>chatGPT</td>
     <td>Github Copilot</td>
-    <td>Geminir</td>
+    <td>Gemini</td>
   </tr>
 </table>
 </div>
