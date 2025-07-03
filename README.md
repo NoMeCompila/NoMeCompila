@@ -28,13 +28,76 @@ My work consistently follows agile development practices, adhering to the Scrum 
 <div align="center">
 <table>
   <tr>
-    <td><a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort=> <img width=100 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a></td>
+    <td>
+      <a href="https://github.com/YOUR_USER?tab=repositories&q=java&type=&language=java&sort=">
+        <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/YOUR_USER?tab=repositories&q=javascript&type=&language=javascript&sort=">
+        <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/YOUR_USER?tab=repositories&q=sql&type=&language=sql&sort=">
+        <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/YOUR_USER?tab=repositories&q=selenium&type=&language=&sort=">
+        <img width="100" src="https://raw.githubusercontent.com/SimpleIcons/simple-icons/develop/icons/selenium.svg">
+      </a>
+    </td>
   </tr>
   <tr align="center">
-    <td>Python</td>
+    <td>Java<br><sub>Back y QA automation</sub></td>
+    <td>JavaScript<br><sub>Automatización web y mocks</sub></td>
+    <td>SQL<br><sub>Validación de datos en pruebas</sub></td>
+    <td>Selenium<br><sub>Testing UI con WebDriver</sub></td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/YOUR_USER?tab=repositories&q=rest-assured&type=&language=java&sort=">
+        <img width="100" src="https://raw.githubusercontent.com/SimpleIcons/simple-icons/develop/icons/testng.svg">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/YOUR_USER?tab=repositories&q=postman&type=&language=&sort=">
+        <img width="100" src="https://raw.githubusercontent.com/SimpleIcons/simple-icons/develop/icons/postman.svg">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/YOUR_USER?tab=repositories&q=requests&type=&language=python&sort=">
+        <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/YOUR_USER?tab=repositories&q=jmeter&type=&language=&sort=">
+        <img width="100" src="https://jmeter.apache.org/images/logo.svg">
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>Rest Assured<br><sub>Testing de APIs en Java</sub></td>
+    <td>Postman<br><sub>Mocks y colecciones de pruebas</sub></td>
+    <td>Requests - Python<br><sub>APIs simples y rápidas</sub></td>
+    <td>JMeter<br><sub>Pruebas de performance</sub></td>
+  </tr>
+
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/YOUR_USER?tab=repositories&q=playwright&type=&language=&sort=">
+        <img width="100" src="https://playwright.dev/img/playwright-logo.svg">
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">Playwright<br><sub>Automatización moderna y cross-browser</sub></td>
   </tr>
 </table>
 </div>
+
 
 <hr>
 
