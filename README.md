@@ -1,9 +1,9 @@
-<h1 align="center">Welcome 😃, I'm Fernando Caballero from Argentina</h1>
-<h3 align="center">Test Automation Engineer / Software Developer</h3>
+<h1 align="center">Welcome 😃, I'm Fernando Caballero </h1>
+<h3 align="center">QA Automation Engineer / Software Developer</h3>
 
-<h3 align="justify">I am an advanced bachelor's degree student in systems with a strong background in automated testing, performance, and security. With two years of experience at Globant, I have showcased my ability to tackle technical challenges with innovative solutions. My daily focus revolves around continuously refining both my technical and soft skills, placing particular emphasis on advancing my proficiency in English.
+<h3 align="justify">I work as a QA Automation Engineer in large, cross-functional teams within enterprise environments. I bring solid experience in electronic payment and banking systems, specializing in both API and web automation. I also have hands-on expertise in performance testing.
 
-I am actively seeking opportunities that allow me to apply and expand my expertise, contributing to project success through the implementation of effective quality strategies. Additionally, I have a keen interest in researching and applying the latest tools in Artificial Intelligence to automate processes and facilitate coding in both my professional work and academic pursuits.</h3>
+My work consistently follows agile development practices, adhering to the Scrum framework and managing test cases through Jira Xray. I’m committed to delivering high-quality solutions that ensure system reliability and enhance user experience.</h3>
 
 <hr>
 
