@@ -56,6 +56,17 @@ My work consistently follows agile development practices, adhering to the Scrum 
     <td>Karate DSL</td>
     <td>Selenium</td>
   </tr>
+ 
+  <tr>
+    <td><img src="https://playwright.dev/img/playwright-logo.svg" width="100" alt="Playwright"></td>
+    <td><img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/JMeter_Logo.png" width="100" alt="JMeter"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" width="100" alt="Rest Assured"></td>
+  </tr>
+  <tr align="center">
+    <td>Playwright</td>
+    <td>JMeter</td>
+    <td>Rest Assured</td>
+  </tr>
 </table>
 </div>
 
