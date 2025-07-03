@@ -27,7 +27,7 @@ My work consistently follows agile development practices, adhering to the Scrum 
 <table>
   <tr>
     <td><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="100" alt="Python"></td>
-    <td><img src="[https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png)" width="100" alt="Java"></td>
+    <td><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="100" alt="Java"></td>
   </tr>
   <tr align="center">
     <td>Python</td>
