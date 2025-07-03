@@ -28,7 +28,7 @@ My work consistently follows agile development practices, adhering to the Scrum 
 <div align="center">
 <table>
   <tr>
-    <td><a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort=> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a></td>
+    <td><a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort=> <img width=200 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a></td>
     <td><img src="https://repository-images.githubusercontent.com/994551/2ba89c40-184d-45ec-8ffe-f9e155aaf702" alt="Imagen 2" width=200 alt="Jinja"></td>
     <td><img src="https://products.fileformat.com/es/pdf/python/header-image.png" width="200" alt="pdfkkit"></td>
     <td><img src="https://styles.redditmedia.com/t5_8tx64t/styles/communityIcon_kbz7e49k7obb1.png" width="200" alt="CustomTkinter"></td>
