@@ -49,10 +49,12 @@ My work consistently follows agile development practices, adhering to the Scrum 
   <tr>
     <td><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="100" alt="Postman"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" width="100" alt="Karate"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="100" alt="Selenium"></td>
   </tr>
   <tr align="center">
     <td>Postman</td>
     <td>Karate DSL</td>
+    <td>Selenium Python-Java</td>
   </tr>
 </table>
 </div>
