@@ -18,9 +18,9 @@ My work consistently follows agile development practices, adhering to the Scrum 
 -  **💊 Pharmaceutical Distributor**: Python Backend Developer, JUFEC SA (Internship)
 
 <h2 align="center">
-  <a href="https://drive.google.com/file/d/1lNWx1JP-m-CzBOberB4rCrElNCQGW0nj/view?usp=sharing" target="_blank">
+  📂<a href="https://drive.google.com/file/d/1lNWx1JP-m-CzBOberB4rCrElNCQGW0nj/view?usp=sharing" target="_blank">
     Download My CV
-  </a>
+  </a> 📩
 </h2>
 
 <h3 align="center">Programming Languages</h3>
