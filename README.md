@@ -60,7 +60,7 @@ My work consistently follows agile development practices, adhering to the Scrum 
   <tr>
     <td><img src="https://playwright.dev/img/playwright-logo.svg" width="100" alt="Playwright"></td>
     <td><img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/JMeter_Logo.png" width="100" alt="JMeter"></td>
-    <td><img src="https://media.trustradius.com/product-logos/Xo/2X/B8NQDTOWGI16-180x180.PNG" width="100" alt="Rest Assured"></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTts6f-AxHI_5jDOuosdBJbl1dRDx5nd00oCKZOUcy6IggaPyNoAwuVCq260sslCuPVUW0&usqp=CAU" width="100" alt="Rest Assured"></td>
   </tr>
   <tr align="center">
     <td>Playwright</td>
