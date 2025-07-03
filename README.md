@@ -25,13 +25,34 @@ My work consistently follows agile development practices, adhering to the Scrum 
 
 <h3 align="center">Principal Languages</h3>
 
-<p align="center">
-  | PYTHON | JAVA | JAVASCRIPT |
-</p>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td><a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort=> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a></td>
+    <td><img src="https://repository-images.githubusercontent.com/994551/2ba89c40-184d-45ec-8ffe-f9e155aaf702" alt="Imagen 2" width=200 alt="Jinja"></td>
+    <td><img src="https://products.fileformat.com/es/pdf/python/header-image.png" width="200" alt="pdfkkit"></td>
+    <td><img src="https://styles.redditmedia.com/t5_8tx64t/styles/communityIcon_kbz7e49k7obb1.png" width="200" alt="CustomTkinter"></td>
+  </tr>
+  <tr align="center">
+    <td>Python</td>
+    <td>Jinja2 3.1.2</td>
+    <td>pdfkit 1.0.0</td>
+    <td>CustomTkinter 5.2.1</td>
+  </tr>
+    <tr>
+    <td><img src="https://pythonfix.com/pkg/p/psutil/psutil-banner.webp" width="200" alt="psutil"></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfv1-oIdAFO00PlE8QFybpiPEjWIDVQvi9hJS39eaeIHf10ZmVNFku6Gki-_D8R9mLnWo&usqp=CAU" alt="Imagen 2" width=200 alt="Jinja"></td>
+    <td><img src="https://www.packetswitch.co.uk/content/images/size/w300/2023/12/tabulate.png" width="200" alt="pdfkkit"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/1215332?s=280&v=4" width="200" alt="CustomTkinter"></td>
+  </tr>
+  <tr align="center">
+    <td>psutil 5.9.4</td>
+    <td>GPUtil 1.4.0</td>
+    <td>tabulate 0.9.0</td>
+    <td>pyinstaller 6.3.0</td>
+  </tr>
+</table>
+</div>
 
 <hr>
 
