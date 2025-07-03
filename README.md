@@ -14,10 +14,11 @@ My work consistently follows agile development practices, adhering to the Scrum 
   [Click to Download My CV](https://drive.google.com/file/d/1lNWx1JP-m-CzBOberB4rCrElNCQGW0nj/view?usp=sharing) 
  </h2>
 
+- **Electronic Payments**: Test Automation Engineer at Prisma Payway (Currently as Glober)
   
 - **Banking**: Test Automation Engineer at BCP (as a Glober)
 
-- **Marketing and Entertainment**: Test Automation Engineer, The Walt Disney Company (as a Glober)
+- **Marketing and Entertainment**: Test Automation Engineer, The Walt Disney Company (as Glober)
 
 -  **Pharmaceutical Distributor**: Python Backend Developer, JUFEC SA (Internship)
 <hr>
