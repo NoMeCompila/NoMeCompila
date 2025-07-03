@@ -54,7 +54,7 @@ My work consistently follows agile development practices, adhering to the Scrum 
   <tr align="center">
     <td>Postman</td>
     <td>Karate DSL</td>
-    <td>Selenium Python-Java</td>
+    <td>Selenium</td>
   </tr>
 </table>
 </div>
