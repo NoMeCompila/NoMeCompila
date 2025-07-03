@@ -41,6 +41,20 @@ My work consistently follows agile development practices, adhering to the Scrum 
 </table>
 </div>
 
+<hr>
+
+<h3 align="center">Frameworks and Testing Tools</h3>
+<div align="center">
+<table>
+  <tr>
+    <td><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-512.png" width="100" alt="Postman"></td>
+  </tr>
+  <tr align="center">
+    <td>Postman</td>
+  </tr>
+</table>
+</div>
+
 
 <hr>
 
