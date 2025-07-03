@@ -77,15 +77,15 @@ My work consistently follows agile development practices, adhering to the Scrum 
 <table>
   <tr>
     <td><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" alt="Git"></td>
-    <td><img src="https://play-lh.googleusercontent.com/DTMp4aVzalUoCFj6XGPBMXg6pEvhL2entVp6_LS7nVpuPZzdF5CI3AzIOYIsqiAyND8u=w240-h480-rw" width="100" alt="Java"></td>
-    <td><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" width="100" alt="Javascript"></td>
-    <td><img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" width="100" alt="SQL"></td>
+    <td><img src="https://play-lh.googleusercontent.com/DTMp4aVzalUoCFj6XGPBMXg6pEvhL2entVp6_LS7nVpuPZzdF5CI3AzIOYIsqiAyND8u=w240-h480-rw" width="100" alt="Jira Xray"></td>
+    <td><img src="https://pbs.twimg.com/profile_images/1259908463070756865/StEmxHED_400x400.png" width="100" alt="Cucumber"></td>
+    <td><img src="https://pngate.com/wp-content/uploads/2025/06/confluence-Icon-main-logo-symbol-blue-modern-abstract-design-1.png" width="100" alt="Confluence"></td>
   </tr>
   <tr align="center">
     <td>Git</td>
     <td>Jira Xray</td>
-    <td>Javascript</td>
-    <td>MySQL</td>
+    <td>Cucumber</td>
+    <td>Confluence</td>
   </tr>
 </table>
 </div>
