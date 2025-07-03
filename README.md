@@ -22,8 +22,6 @@ My work consistently follows agile development practices, adhering to the Scrum 
     Download My CV
   </a>
 </h2>
- 
-<hr>
 
 <h3 align="center">Programming Languages</h3>
 <div align="center">
