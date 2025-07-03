@@ -47,7 +47,7 @@ My work consistently follows agile development practices, adhering to the Scrum 
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-512.png" width="100" alt="Postman"></td>
+    <td><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="100" alt="Postman"></td>
   </tr>
   <tr align="center">
     <td>Postman</td>
