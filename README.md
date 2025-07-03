@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 😃, I'm Fernando Caballero </h1>
+![image](https://github.com/user-attachments/assets/1b4d8322-d903-4985-b219-2e81460f3dc0)<h1 align="center">Welcome 😃, I'm Fernando Caballero </h1>
 <h3 align="center">QA Automation Engineer / Software Developer</h3>
 
 <h3 align="justify">I work as a QA Automation Engineer in large, cross-functional teams within enterprise environments. I bring solid experience in electronic payment and banking systems, specializing in both API and web automation. I also have hands-on expertise in performance testing.
@@ -70,6 +70,25 @@ My work consistently follows agile development practices, adhering to the Scrum 
 </table>
 </div>
 
+<hr>
+
+<h3 align="center">QA management Tools</h3>
+<div align="center">
+<table>
+  <tr>
+    <td><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" alt="Git"></td>
+    <td><img src="https://play-lh.googleusercontent.com/DTMp4aVzalUoCFj6XGPBMXg6pEvhL2entVp6_LS7nVpuPZzdF5CI3AzIOYIsqiAyND8u=w240-h480-rw" width="100" alt="Java"></td>
+    <td><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" width="100" alt="Javascript"></td>
+    <td><img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" width="100" alt="SQL"></td>
+  </tr>
+  <tr align="center">
+    <td>Git</td>
+    <td>Jira Xray</td>
+    <td>Javascript</td>
+    <td>MySQL</td>
+  </tr>
+</table>
+</div>
 
 <hr>
 
