@@ -108,17 +108,7 @@ My work consistently follows agile development practices, adhering to the Scrum 
 </table>
 </div>
 
-<hr>
 
-
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nomecompila&show_icons=true&locale=en&layout=compact" alt="nomecompila" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nomecompila&show_icons=true&locale=en" alt="nomecompila" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomecompila&" alt="nomecompila" /></p>
-
-<hr>
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
