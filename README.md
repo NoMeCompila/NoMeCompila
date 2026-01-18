@@ -18,7 +18,7 @@ Currently, I enhance my testing strategies by integrating Generative AI, optimiz
 - Backend Developer in Pharmaceutical Industry at Jufec S.A.💊
 
 <h2 align="center">
-  📂<a href="https://drive.google.com/file/d/1lNWx1JP-m-CzBOberB4rCrElNCQGW0nj/view?usp=sharing" target="_blank">
+  📂<a href="https://drive.google.com/file/d/1kSHFD1YRk4G3LfIjQ6dLFVW90EqdEvyL/view?usp=sharing" target="_blank">
     Download My CV
   </a> 📩
 </h2>
