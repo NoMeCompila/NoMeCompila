@@ -1,21 +1,24 @@
 <h1 align="center">Welcome 😃, I'm Fernando Caballero </h1>
 <h3 align="center">QA Automation Engineer / Software Developer</h3>
 
-<h3 align="justify">I work as a QA Automation Engineer in large, cross-functional teams within enterprise environments. I bring solid experience in electronic payment and banking systems, specializing in both API and web automation. I also have hands-on expertise in performance testing.
+<h3 align="justify">
+ ✨With over 4 years of experience transforming software quality in highly demanding industries such as Johnson & Johnson, Disney, and Prisma. My focus is not only on finding bugs, but also on designing robust and efficient testing architectures that accelerate the development lifecycle and enable early bug detection.
 
-My work consistently follows agile development practices, adhering to the Scrum framework and managing test cases through Jira Xray. I’m committed to delivering high-quality solutions that ensure system reliability and enhance user experience.</h3>
+Currently, I enhance my testing strategies by integrating Generative AI, optimizing everything from script creation to data analysis. I am passionate about continuous learning, which has allowed me to master a diverse stack that encompasses both functional and non-functional test automation.✨
+</h3>
 
 <hr>
 
 <h2 align="center"> I work with Clients at diferent Industries like: </h2>
  
-- **💵 Electronic Payments**: Test Automation Engineer at Prisma Payway (Currently as Glober)
-  
-- **🏦 Banking**: Test Automation Engineer at BCP (as a Glober)
-
-- **📊 Marketing and Entertainment**: Test Automation Engineer, The Walt Disney Company (as Glober)
-
--  **💊 Pharmaceutical Distributor**: Python Backend Developer, JUFEC SA (Internship)
+- **🔹Api Testing: Postman - Karate DSL - Requests con Python - Rest-Assured con Java
+- **🔹Web UI Testing: Selenium Python - Selenium Java - Playwright - Typescript
+- **🔹Performance Testing: JMeter - LoadRunner
+- **🔹Bases de Datos: SQL Server - MySQL - SOQL
+- **🔹AI tools: Chat GPT - Gemini - Github Copilot 
+- **🔹Control de Versiones: Git - Github - Gitlab
+- **🔹Gestión de Proyectos: Jira - Jira Xray - Trello
+- **🔹Plataformas: Salesforce - AWS
 
 <h2 align="center">
   📂<a href="https://drive.google.com/file/d/1lNWx1JP-m-CzBOberB4rCrElNCQGW0nj/view?usp=sharing" target="_blank">
