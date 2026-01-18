@@ -11,14 +11,11 @@ Currently, I enhance my testing strategies by integrating Generative AI, optimiz
 
 <h2 align="center"> I work with Clients at diferent Industries like: </h2>
  
-- Api Testing: Postman - Karate DSL - Requests con Python - Rest-Assured con Java
-- Web UI Testing: Selenium Python - Selenium Java - Playwright - Typescript
-- Performance Testing: JMeter - LoadRunner
-- Bases de Datos: SQL Server - MySQL - SOQL
-- AI tools: Chat GPT - Gemini - Github Copilot 
-- Control de Versiones: Git - Github - Gitlab
-- Gestión de Proyectos: Jira - Jira Xray - Trello
-- Plataformas: Salesforce - AWS
+- Testing Healthcare platforms at Johnson & Johnson 💉
+- Fintech as SDET at Prisma Payway 💳
+- Bank Industry at Banco de Crédito del Perú (BCP) 💵
+- QA Automation Engineer at Walt Disney🏰
+- Backend Developer in Pharmaceutical Industry at Jufec S.A.💊
 
 <h2 align="center">
   📂<a href="https://drive.google.com/file/d/1lNWx1JP-m-CzBOberB4rCrElNCQGW0nj/view?usp=sharing" target="_blank">
