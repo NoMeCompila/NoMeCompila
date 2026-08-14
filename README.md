@@ -92,18 +92,18 @@ Currently, I enhance my testing strategies by integrating Generative AI, optimiz
   
 <hr>
 
-<h3 align="center">AI chats I Use The Most</h3>
+<h3 align="center">AI agentic tools I Use The Most</h3>
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/11865/11865338.png" width="100" alt="Chat GPT"></td>
-    <td><img src="https://miro.medium.com/v2/resize:fit:700/0*oRRpMJ9XqkRnYLhW.png" width="100" alt="Copilot"></td>
-    <td><img src="https://brandlogos.net/wp-content/uploads/2025/03/gemini_icon-logo_brandlogos.net_bqzeu-300x300.png" width="100" alt="Gemini"></td>
+    <td><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="100" alt="avg"></td>
+    <td><img src="https://dashboard.snapcraft.io/site_media/appmedia/2026/03/copilot_logo.png" width="100" alt="Copilot"></td>
+    <td><img src="https://framerusercontent.com/images/a8V7COrPdbFDeCFFnUsZHHOq8.webp?width=1280&height=1280" width="100" alt="Claude"></td>
   </tr>
   <tr align="center">
-    <td>chatGPT</td>
-    <td>Github Copilot</td>
-    <td>Gemini</td>
+    <td>Antigravity</td>
+    <td>Copilot CLI</td>
+    <td>Claude</td>
   </tr>
 </table>
 </div>
